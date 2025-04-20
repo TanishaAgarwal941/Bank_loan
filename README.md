@@ -24,7 +24,7 @@ The following dashboards provide **visual insights** into the loan data. They ha
 ## Conclusion  
 This project provides a **comprehensive analysis of bank loans**, helping banks make better financial decisions, reduce risk, and improve lending practices.  
 
-By implementing the same analysis across **SQL, Excel, and Tableau**, we are able to:  
+By implementing the same analysis across **SQL, Excel, and Tableau**, we were able to:  
 ✔ **Extract and process data efficiently** (**SQL**)  
 ✔ **Perform detailed calculations and analysis** (**Excel**)  
 ✔ **Create dynamic and interactive visualizations** (**Tableau**)  
