@@ -24,7 +24,7 @@ Displays high-level KPIs, trends, and comparisons of loan data.
 
 ### 2. Overview Dashboard  
 Tracks monthly trends, regional analysis, and loan terms.  
-![Overview Dashboard](Dashboard_Images/Overview_Dashboard.png)
+![Overview Dashboard](Dashboard_Images/Overview_Dashboard.jpg)
 
 ### 3. Details Dashboard  
 Focuses on individual loan records and status breakdowns.  
