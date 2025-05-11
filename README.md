@@ -20,15 +20,15 @@ The following dashboards provide **visual insights** into the loan data. They ha
 
 ### 1. Summary Dashboard  
 Displays high-level KPIs, trends, and comparisons of loan data.  
-![Summary Dashboard](dashboard_images/summary_dashboard.png)
+![Summary Dashboard](Dashboard_Images/Summary_Dashboard.png)
 
 ### 2. Overview Dashboard  
 Tracks monthly trends, regional analysis, and loan terms.  
-![Overview Dashboard](dashboard_images/overview_dashboard.png)
+![Overview Dashboard](Dashboard_Images/Overview_Dashboard.png)
 
 ### 3. Details Dashboard  
 Focuses on individual loan records and status breakdowns.  
-![Details Dashboard](dashboard_images/details_dashboard.png)
+![Details Dashboard](Dashboard_Images/Details_Dashboard.png)
 
 ## Conclusion  
 This project provides a **comprehensive analysis of bank loans**, helping banks make better financial decisions, reduce risk, and improve lending practices.  
